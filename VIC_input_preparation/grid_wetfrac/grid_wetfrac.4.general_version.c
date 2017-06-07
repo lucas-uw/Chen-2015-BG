@@ -11,7 +11,7 @@ void latlon2ease(double, double, double, double, double, double *, double *);
 
 int main (int argc, char *argv[])
 /******************************************************************************
-  Author: Sasha Richey 2009-Aug-26
+  Author: Xiaodong Chen (xiaodc.work@gmail.com)
 
   Description:
   This program finds for each grid cell, the fractional area of the wet and
